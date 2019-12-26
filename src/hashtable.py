@@ -1,4 +1,4 @@
-from linkedlist import LinkedList
+from src.linkedlist import LinkedList
 # from lib.utils import time_it
 
 
